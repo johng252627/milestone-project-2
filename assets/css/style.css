@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Train+One&display=swap');
+
+html, body {
+    overflow-x: hidden;
+}
+
+header {
+    height: 100px;
+    width: fit-content;
+    background-color: #f1c6f5;
+}
+
+h1 {
+    font-family: "Train One", sans-serif;
+    text-transform: uppercase;
+}
+
+

@@ -9,12 +9,35 @@ header {
     height: 100px;
     width: fit-content;
     background-color: #f1c6f5;
+    text-align: center;
+    letter-spacing: 2px;
 }
 
 h1 {
     font-family: "Train One", sans-serif;
     text-transform: uppercase;
 }
+
+/*----------------------------------game section-----*/
+
+#game-section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*----------------------------------cards-----*/
+
+.card {
+    display: block;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+    margin: 5px 5px 5px 5px;
+}
+
 
 /*--------------------------------how to play-----*/
 

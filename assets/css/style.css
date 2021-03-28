@@ -4,6 +4,7 @@ html, body {
     overflow-x: hidden;
 }
 
+/*-----------------------------------header----*/
 header {
     height: 100px;
     width: fit-content;
@@ -15,4 +16,16 @@ h1 {
     text-transform: uppercase;
 }
 
+/*--------------------------------how to play-----*/
+
+#rules {
+    background-color: #f1c6f5;
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 20px;
+}
 
